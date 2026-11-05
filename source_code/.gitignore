@@ -1,0 +1,9 @@
+.gui_deps/
+data/
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.log
+.pytest_cache/

@@ -1,0 +1,1109 @@
+{
+  "name": "Notepad++",
+  "version": "8.8.7",
+  "license": "GPL (upstream license.txt included)",
+  "release": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.7",
+  "official_zip_sha256": "92c017802cd6918b0c3f3de1feeb8790e559978ca817b699f446c8464b3c962f",
+  "files": [
+    {
+      "file": "notepad-plus-plus-v8.8.7-source.zip",
+      "sha256": "caa40b2dd6f8be8fbd78dcc9d50e8266e993332cbaaa5301678da81305e43b5c",
+      "size": 14471077
+    },
+    {
+      "file": "npp.8.8.7.portable.x64.zip",
+      "sha256": "92c017802cd6918b0c3f3de1feeb8790e559978ca817b699f446c8464b3c962f",
+      "size": 8196690
+    },
+    {
+      "file": "notepad++/change.log",
+      "sha256": "2ad139cc8e50232936b604614462223c0fd421cbaf0073e98b2e1c688e657999",
+      "size": 2011
+    },
+    {
+      "file": "notepad++/config.xml",
+      "sha256": "4d0ba9ea35e170fadfe48d4ed8a168006e42748d9b6fcdc0cb204da549b5f3e0",
+      "size": 5124
+    },
+    {
+      "file": "notepad++/contextMenu.xml",
+      "sha256": "43ac0b7ba9b1f91fd8d4841b8119344e6212b307a1decccf61658f31d38bb425",
+      "size": 4928
+    },
+    {
+      "file": "notepad++/doLocalConf.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "file": "notepad++/langs.model.xml",
+      "sha256": "968fbe04c28b5065ba2377dd157f8cceca25997cb78a59428e9c26e064f584e9",
+      "size": 535531
+    },
+    {
+      "file": "notepad++/license.txt",
+      "sha256": "2b94f58d89424af06d1a8e16775774757f1ecfb678203c3439af037a24f35dc6",
+      "size": 35500
+    },
+    {
+      "file": "notepad++/notepad++.exe",
+      "sha256": "a0b788cfb1afdfcefed09fc8cb1b36d3b4298e1c5fe551394edbc687b49fa9fb",
+      "size": 8726688
+    },
+    {
+      "file": "notepad++/nppLogNulContentCorruptionIssue.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "file": "notepad++/readme.txt",
+      "sha256": "bc661498305746c6deacbee301522f7c283566a804184e290481d3b57af675b1",
+      "size": 1526
+    },
+    {
+      "file": "notepad++/shortcuts.xml",
+      "sha256": "37a24662cd55b627807bc2bb7cbba5bbf2abaf6da4dd7bbb949bfaa7903eae9c",
+      "size": 3156
+    },
+    {
+      "file": "notepad++/stylers.model.xml",
+      "sha256": "d3ef9a4f5c3e0f7e5103614afb42b00908816fdeaf59b0a0b9cb7d356985eea9",
+      "size": 230604
+    },
+    {
+      "file": "notepad++/tabContextMenu_example.xml",
+      "sha256": "c827668180799dd17676b6006122c8ba39fa1718c9448fde38280d66c9601acf",
+      "size": 6849
+    },
+    {
+      "file": "notepad++/toolbarButtonsConf_example.xml",
+      "sha256": "e3cfc08c31d7b0a09daf201330f64c503f0894f6632cdb2627d5a5866ca44fb9",
+      "size": 7653
+    },
+    {
+      "file": "notepad++/autoCompletion/actionscript.xml",
+      "sha256": "0ece58221295c2965346b81d63ca1b6167ab47d1d8ba3fef377c9beded607491",
+      "size": 21513
+    },
+    {
+      "file": "notepad++/autoCompletion/autoit.xml",
+      "sha256": "b15afd5149673e3d72fc8e99945197c86ad43113230dcd8bbc952a82e965e146",
+      "size": 738716
+    },
+    {
+      "file": "notepad++/autoCompletion/BaanC.xml",
+      "sha256": "d408ed3caef21ebb64fb29d633e9ce5069454c1a792a09e2e24f83595d2743be",
+      "size": 18483
+    },
+    {
+      "file": "notepad++/autoCompletion/batch.xml",
+      "sha256": "c4025268b36bb02b2d25e5144d360f69cfc7dddcb3ac98cd2d588393b5cbd30d",
+      "size": 3777
+    },
+    {
+      "file": "notepad++/autoCompletion/c.xml",
+      "sha256": "35aadc7531e2332679c54306899a21fe3586b7203132cb5673b64915feb91bad",
+      "size": 44386
+    },
+    {
+      "file": "notepad++/autoCompletion/cmake.xml",
+      "sha256": "f902adc5faf041306b54d48914a5bc9c8d45057a4da431786aef451e2c39d1f7",
+      "size": 7884
+    },
+    {
+      "file": "notepad++/autoCompletion/cobol.xml",
+      "sha256": "7690e1bbe3ee5d55b993ebc1f41df35f5bf1b7aac7c6b6152a6f1112cb9a6773",
+      "size": 47436
+    },
+    {
+      "file": "notepad++/autoCompletion/coffee.xml",
+      "sha256": "4dc5389cc699ceeaa7b020349faada9687fb215e80bc3a6d81e97d8b4b994efc",
+      "size": 1503
+    },
+    {
+      "file": "notepad++/autoCompletion/cpp.xml",
+      "sha256": "859225af31857a4413b72fc91dda16bfdecdeb3c465faa78929a97b14e421d0b",
+      "size": 63776
+    },
+    {
+      "file": "notepad++/autoCompletion/cs.xml",
+      "sha256": "51167c87e44f41d00756bf36c425de070ab831d8b18e75b5c1d3b1468f20dcf9",
+      "size": 33888
+    },
+    {
+      "file": "notepad++/autoCompletion/css.xml",
+      "sha256": "5438655e9264219e830da3d3181399cdda72aa701a8191a51274dc879e856bb6",
+      "size": 17001
+    },
+    {
+      "file": "notepad++/autoCompletion/gdscript.xml",
+      "sha256": "6b0955260345c49a52d8bd35f1a6cfb98f7048894eababcce38eeded00ef630d",
+      "size": 73064
+    },
+    {
+      "file": "notepad++/autoCompletion/go.xml",
+      "sha256": "b32fb13f6fb628eec6b447983dd062c13f7a68e2aded77be3c5af7384935a7ff",
+      "size": 3911
+    },
+    {
+      "file": "notepad++/autoCompletion/html.xml",
+      "sha256": "f2ff7acfcb670ff9d644fb39f3962d38be7a46736869465375cf7322e84f05e2",
+      "size": 19551
+    },
+    {
+      "file": "notepad++/autoCompletion/java.xml",
+      "sha256": "18d4506cbd6c04e33b948b1824662efc432a89e83e18abffb78043a2121f5580",
+      "size": 205359
+    },
+    {
+      "file": "notepad++/autoCompletion/javascript.xml",
+      "sha256": "3c259ef3139db6ea3c1957adc55ee145724d223fe91dab8596ae6758bacecd30",
+      "size": 27778
+    },
+    {
+      "file": "notepad++/autoCompletion/lisp.xml",
+      "sha256": "7dee0ce72cf218da91221c2be184bd22ba16b120396aa1f209583fc9f62fd8bf",
+      "size": 17231
+    },
+    {
+      "file": "notepad++/autoCompletion/lua.xml",
+      "sha256": "9f4c5b1c6e423d1e3d288212b4c70272529b7502c61e00a732c5ed7c1cbe9742",
+      "size": 81389
+    },
+    {
+      "file": "notepad++/autoCompletion/nsis.xml",
+      "sha256": "55c3ca2340aaacc64e33ffb40ef45ee82d1487bf0219592952c65009ceddcb47",
+      "size": 9507
+    },
+    {
+      "file": "notepad++/autoCompletion/perl.xml",
+      "sha256": "ef80e0ac62039adb2ae768d9ef4dbf9d42c9faaab9ecb7e2e5f37c1c3a5cc2bf",
+      "size": 61307
+    },
+    {
+      "file": "notepad++/autoCompletion/php.xml",
+      "sha256": "3e1454b2b15969434e935efe6f9746092ce9f2ec0f9cdeac32b904af52d46907",
+      "size": 432132
+    },
+    {
+      "file": "notepad++/autoCompletion/powershell.xml",
+      "sha256": "6123e3294ccfc27143361426eb5874e8efae8a31b26e0078776daf82cf74d8b0",
+      "size": 88004
+    },
+    {
+      "file": "notepad++/autoCompletion/python.xml",
+      "sha256": "23add5af4a1c87485d4886419021f8842b2da6b44962b024c0bd83b3b782b380",
+      "size": 61578
+    },
+    {
+      "file": "notepad++/autoCompletion/raku.xml",
+      "sha256": "20809301e7d81e43ad38755a07801d290b07062cc7a0775c1101d0dd9847437f",
+      "size": 23440
+    },
+    {
+      "file": "notepad++/autoCompletion/rc.xml",
+      "sha256": "cd8750aaaa3b70d9e9ce22232b8ac5f5c4e1e13c4261894a1d8e32c22ae8657e",
+      "size": 1635
+    },
+    {
+      "file": "notepad++/autoCompletion/sas.xml",
+      "sha256": "eca2cbf40f377fba22db93d48e7856d4fbee9c24908655bb7d971a5906cbe5d1",
+      "size": 21497
+    },
+    {
+      "file": "notepad++/autoCompletion/sql.xml",
+      "sha256": "1b18ca570694e7128d2751a5c7f46464d8ac167be58627a1fd61324284c15ea5",
+      "size": 67945
+    },
+    {
+      "file": "notepad++/autoCompletion/tex.xml",
+      "sha256": "c916f03b9dea3d64019907120d7d4efc925e86189327bcbb89969c57934e2c23",
+      "size": 67864
+    },
+    {
+      "file": "notepad++/autoCompletion/typescript.xml",
+      "sha256": "a09f978aeba209e18cd424d98c8bafb6165777e3992eb09e5e7e0a26bded4410",
+      "size": 2417
+    },
+    {
+      "file": "notepad++/autoCompletion/vb.xml",
+      "sha256": "53104b87f91458aac8c6709b74a7cd5f0367fc6f2280b98aaa495a59e1788551",
+      "size": 17190
+    },
+    {
+      "file": "notepad++/autoCompletion/vhdl.xml",
+      "sha256": "dffaf09efd41b7eb9b74128585de649c627627b404fa1925acaa6c56709a3542",
+      "size": 2625
+    },
+    {
+      "file": "notepad++/autoCompletion/xml.xml",
+      "sha256": "1730bc85e1cd2652ea44d6da42114937fe9fed4527b5e0cb6e2a09f47e0da92e",
+      "size": 12017
+    },
+    {
+      "file": "notepad++/functionList/ada.xml",
+      "sha256": "b5ac09267d7bab91b56f47cb44de8c8c0fb951cf9735f2245757da842cd2052a",
+      "size": 3646
+    },
+    {
+      "file": "notepad++/functionList/asm.xml",
+      "sha256": "73526ddb1d23d595680badd6bd87f5dd82869606a7cf7e8707758d48d848257e",
+      "size": 1349
+    },
+    {
+      "file": "notepad++/functionList/autoit.xml",
+      "sha256": "32ae9531405ef3c59448fe6dbd3be435e726eb17f3ca0d16530a4c6317dea286",
+      "size": 1848
+    },
+    {
+      "file": "notepad++/functionList/baanc.xml",
+      "sha256": "ec249b0dab6fda20cc24f0f25a504c55a05b23fb6cbb4938aa7a41df0c8744b6",
+      "size": 8513
+    },
+    {
+      "file": "notepad++/functionList/bash.xml",
+      "sha256": "2ae1142b08d296c25000e451237ea919f981da28f6a723d39540f43f18bac762",
+      "size": 2999
+    },
+    {
+      "file": "notepad++/functionList/batch.xml",
+      "sha256": "77eed9211cd8464482f0da3fac4c0f003c2b8a6d76f15445927e66400f102d60",
+      "size": 1930
+    },
+    {
+      "file": "notepad++/functionList/c.xml",
+      "sha256": "f3a7e5e59e883a3ef6c99967766a546d55dd7a767fadb9f4d433cedf0555e992",
+      "size": 4133
+    },
+    {
+      "file": "notepad++/functionList/cobol-free.xml",
+      "sha256": "5639c845d56dedecd2cfdb082b734593b5d618a87f1bd8ec612a8b3f4245566a",
+      "size": 1772
+    },
+    {
+      "file": "notepad++/functionList/cobol.xml",
+      "sha256": "057784451e3442f381f6a8af931a7050f88d19bda6bc939d37607532a353da1c",
+      "size": 1368
+    },
+    {
+      "file": "notepad++/functionList/cpp.xml",
+      "sha256": "40cf1af5650b699a947899d2b43a00dcb64cdeaf080651c82a7930910c1c03f4",
+      "size": 18515
+    },
+    {
+      "file": "notepad++/functionList/cs.xml",
+      "sha256": "04508a792558e9761ddc85b4baf0be6bee9972a5a75e145d541262b36e1fbf5e",
+      "size": 2283
+    },
+    {
+      "file": "notepad++/functionList/css.xml",
+      "sha256": "efdae6a6db01832c42590a7e74aa20b26172c4476f1cd3961dee6d816e90b297",
+      "size": 692
+    },
+    {
+      "file": "notepad++/functionList/fortran.xml",
+      "sha256": "5b324fb16c96737c266d4fec05476017c8547e3f59a16bebcbac0086ed4ae14b",
+      "size": 1998
+    },
+    {
+      "file": "notepad++/functionList/fortran77.xml",
+      "sha256": "355a07e657b68f84494b95119c4bec782d27af25c6b396eb1bdf61b387c55bda",
+      "size": 1618
+    },
+    {
+      "file": "notepad++/functionList/gdscript.xml",
+      "sha256": "680d3e38277032ce81a7451c1768c40934d3ec75d9c85989922cebad9a5babf6",
+      "size": 1076
+    },
+    {
+      "file": "notepad++/functionList/haskell.xml",
+      "sha256": "e163c2dc738f1df1d4029ca9f2af7309da19e4ad4eefac1212bbba6fa0167ad4",
+      "size": 2475
+    },
+    {
+      "file": "notepad++/functionList/hollywood.xml",
+      "sha256": "37f68324ab750ae6dd622ae7f10596348ec70485371c27dce25ffa886cd4e83b",
+      "size": 959
+    },
+    {
+      "file": "notepad++/functionList/ini.xml",
+      "sha256": "11acf49eb9f3cb68fa7a3bb8568cef2eb0f125700c8edcbcd108b5810761770f",
+      "size": 952
+    },
+    {
+      "file": "notepad++/functionList/inno.xml",
+      "sha256": "0162159b64eb092f94964faf937f263fb9947b25d40e0d82bd3224d136a140de",
+      "size": 4404
+    },
+    {
+      "file": "notepad++/functionList/java.xml",
+      "sha256": "2487221a75a52b4f8aa6d2e62f1c0a55a5cd5240b1cb7aafa66fbb2042590b06",
+      "size": 9331
+    },
+    {
+      "file": "notepad++/functionList/javascript.js.xml",
+      "sha256": "b89d99729ce980d121d90827507ffaea8bfb940fc5169f69f5a25838735b977b",
+      "size": 1782
+    },
+    {
+      "file": "notepad++/functionList/krl.xml",
+      "sha256": "c158322bd963d2a68ffc878d72213a7394d8c16de72279771ffc924365eec0df",
+      "size": 3037
+    },
+    {
+      "file": "notepad++/functionList/latex.xml",
+      "sha256": "89597db6b9f0f062cd3ab1ccbe37a590bfc173143f8e5b9d41d8904b17b4f5c2",
+      "size": 1016
+    },
+    {
+      "file": "notepad++/functionList/lua.xml",
+      "sha256": "aad05ac01dbe728e6fa731fcda0c9ee0c81f4242b016a397e76ec693644e550c",
+      "size": 4401
+    },
+    {
+      "file": "notepad++/functionList/nppexec.xml",
+      "sha256": "579159f6e8297268cdbe0226de81b21fb92a282604c78315da80baca4f393703",
+      "size": 2078
+    },
+    {
+      "file": "notepad++/functionList/nsis.xml",
+      "sha256": "c13743567fcfc4fa77b66e79447edab2d1ecc97d4da32b655d92ae90968f2b0b",
+      "size": 7125
+    },
+    {
+      "file": "notepad++/functionList/overrideMap.xml",
+      "sha256": "b36520deacfa2545a42626b786c16445a37aa34fb2c41ae3d8b78ca6ea6d651f",
+      "size": 6818
+    },
+    {
+      "file": "notepad++/functionList/pascal.xml",
+      "sha256": "05843031cf912c16ea0d9a04a547e14a74c6237439d966fbfa6e33011e6116f7",
+      "size": 10948
+    },
+    {
+      "file": "notepad++/functionList/perl.xml",
+      "sha256": "7f795e73a631c50e64e5de000024e520910d2d74254eebce51788886d16501fa",
+      "size": 4569
+    },
+    {
+      "file": "notepad++/functionList/php.xml",
+      "sha256": "b5d149184a4e4a3ed8425e5ace844d784a4ed5a4e0004e959cf17f6267e80b40",
+      "size": 10000
+    },
+    {
+      "file": "notepad++/functionList/powershell.xml",
+      "sha256": "9d6ee11f048b734a4edf01acda39d1390b0e1e88756919991c242073723b9c21",
+      "size": 1381
+    },
+    {
+      "file": "notepad++/functionList/python.xml",
+      "sha256": "4ea8d804fa08f47ade53126116b213893611cf3e6817d0d0e257e5fa5d6c82c5",
+      "size": 1149
+    },
+    {
+      "file": "notepad++/functionList/raku.xml",
+      "sha256": "d00a1520fd5b4cef780e63d5a036198ef93bf36124479facd703c8a7118a7737",
+      "size": 1427
+    },
+    {
+      "file": "notepad++/functionList/ruby.xml",
+      "sha256": "bffbebedccb4bfd8e849bb3b577eaf0bc821bd45be29905017e667034e5b25be",
+      "size": 1088
+    },
+    {
+      "file": "notepad++/functionList/rust.xml",
+      "sha256": "1571595dee56cf2b6b2e39f2108db82cd2e8faf15c1d15bba2fdf34770bcda7f",
+      "size": 1848
+    },
+    {
+      "file": "notepad++/functionList/sas.xml",
+      "sha256": "4e4b268d1b62b5ef901f4348ab5c7917580b1f9559559cdcae52e9ba0a6e5968",
+      "size": 2570
+    },
+    {
+      "file": "notepad++/functionList/sinumerik.xml",
+      "sha256": "db3ac1fd3d65df45d805adb8dfe0c5209db07ef93406db17dfb783dd8048720a",
+      "size": 1003
+    },
+    {
+      "file": "notepad++/functionList/sql.xml",
+      "sha256": "e02aafc17d811a8c5bde7934f984e669475d8bd610a7fd2145e8dc999ccc3ff5",
+      "size": 5250
+    },
+    {
+      "file": "notepad++/functionList/tex.xml",
+      "sha256": "c285165f24559742ef0c993dedcefecb7d41545197b41f541e226014bf924388",
+      "size": 1009
+    },
+    {
+      "file": "notepad++/functionList/toml.xml",
+      "sha256": "1d6c4692c044b5e9c4e3135cfa991a1823eec109922984217ac76acf7d4fbeac",
+      "size": 946
+    },
+    {
+      "file": "notepad++/functionList/typescript.xml",
+      "sha256": "bd7eb2a68383c94758caab9aa5bcfa9a1289bceed2e11d30846c20521b606d98",
+      "size": 1146
+    },
+    {
+      "file": "notepad++/functionList/universe_basic.xml",
+      "sha256": "7c0719b9b312a531cf41cd08affacceef6de084619808238fec0f0247955f26e",
+      "size": 2021
+    },
+    {
+      "file": "notepad++/functionList/vb.xml",
+      "sha256": "853ee4bb2b457d8e1f65d033aa33a811b61e606b4cbe192120efc60cac2203a1",
+      "size": 2514
+    },
+    {
+      "file": "notepad++/functionList/vhdl.xml",
+      "sha256": "558bbe6193a202dcb00cc441421f5d838764e495b8e4d2e10877db7f661b8cd5",
+      "size": 1623
+    },
+    {
+      "file": "notepad++/functionList/xml.xml",
+      "sha256": "5ac3e308c8bef5ed42463929a1be5f519f56a0785fd8c2aed6f85073cc5f98fc",
+      "size": 2229
+    },
+    {
+      "file": "notepad++/localization/abkhazian.xml",
+      "sha256": "b3c312f303968d53b9ac05cc53f254d9f2e16fdb854781676a9a30b76d040e4a",
+      "size": 108891
+    },
+    {
+      "file": "notepad++/localization/afrikaans.xml",
+      "sha256": "a2f3c4995f3057d77c6188350ee02516cb2099437c3a2b0aa7c3221ba0d2f01f",
+      "size": 23000
+    },
+    {
+      "file": "notepad++/localization/albanian.xml",
+      "sha256": "e96b9b2b20db64793801e613e8fb0a5745ffaa1c7d46e16209a627052f1a48fa",
+      "size": 43947
+    },
+    {
+      "file": "notepad++/localization/arabic.xml",
+      "sha256": "942a2a0daec0bb82164183da8d19f7604e231620727df79a9d902ef2614a74d9",
+      "size": 76257
+    },
+    {
+      "file": "notepad++/localization/aragonese.xml",
+      "sha256": "2426ca1150a0d624dd407737274ec173c0d0b3184f293271d7965a9eae45b668",
+      "size": 43427
+    },
+    {
+      "file": "notepad++/localization/aranese.xml",
+      "sha256": "516a681a7c4fd0399b316ad967ea8643029c54e81a2e92da7ecb3d3ef79f44de",
+      "size": 16393
+    },
+    {
+      "file": "notepad++/localization/azerbaijani.xml",
+      "sha256": "f226afbad80a1bfc44991f0d4fc78fbdd5e2074ef948f4462b6868b780b560c3",
+      "size": 27135
+    },
+    {
+      "file": "notepad++/localization/basque.xml",
+      "sha256": "33c4a4d4338d0400e822d72985e6eb46b53524589841f93346ed76180e54494d",
+      "size": 86482
+    },
+    {
+      "file": "notepad++/localization/belarusian.xml",
+      "sha256": "9ce082ec43cc8d7a35e207547e5979ae8ad1c7ed928585f698a8257950826ab5",
+      "size": 115206
+    },
+    {
+      "file": "notepad++/localization/bengali.xml",
+      "sha256": "c780f5d70b61941f8bf18b2c40d05e970906a53ae20ff7b5fd85ffe314df7090",
+      "size": 57849
+    },
+    {
+      "file": "notepad++/localization/bosnian.xml",
+      "sha256": "88ce80f7f1049564c1a0e5bcba6a7bcba9a30e10c51791d32cc6d2d9850ecbe4",
+      "size": 26853
+    },
+    {
+      "file": "notepad++/localization/brazilian_portuguese.xml",
+      "sha256": "d1d9af2a4ccf6461531db1d6160e3662ae380e1b45245b5d0f48680feabc00c3",
+      "size": 113469
+    },
+    {
+      "file": "notepad++/localization/breton.xml",
+      "sha256": "26083c99a0a8affb8f12a58b46779d0f5f39cf5c32c326d3fc5a66f368c97949",
+      "size": 66548
+    },
+    {
+      "file": "notepad++/localization/bulgarian.xml",
+      "sha256": "a6da85e0349abf3b5fe9713480273fc3505854e90dc0b07e77b64bc750ccd844",
+      "size": 156266
+    },
+    {
+      "file": "notepad++/localization/catalan.xml",
+      "sha256": "35b59a7f2a32a25035817ece1fcf420b50732924586604b5eb1d0d63c4bb5aef",
+      "size": 68085
+    },
+    {
+      "file": "notepad++/localization/chineseSimplified.xml",
+      "sha256": "e6b3d65099925b3d78c7abd781c117ee97ac95a4557636fa1ac4c18d2ad55feb",
+      "size": 103921
+    },
+    {
+      "file": "notepad++/localization/corsican.xml",
+      "sha256": "34ee86efadb17c7c7d89aeff4713cd0ebf1f15de388d26c96eb251287d87931f",
+      "size": 124387
+    },
+    {
+      "file": "notepad++/localization/croatian.xml",
+      "sha256": "cb5e8bbae7d968e9afe72d83a17e9b7f53995ea1c5ce2d8d4d3c93cb314e54b2",
+      "size": 116016
+    },
+    {
+      "file": "notepad++/localization/czech.xml",
+      "sha256": "0c4cc882d6ee72fd1ecb5572ab90fdf90e97a9d1c49a024a4df388ca4d4f97da",
+      "size": 117833
+    },
+    {
+      "file": "notepad++/localization/danish.xml",
+      "sha256": "4e977ccbdd0ccc8896a9ace8fe494bf6ae4c84d0c917f5ee4c6621b2b18a99d9",
+      "size": 84031
+    },
+    {
+      "file": "notepad++/localization/dutch.xml",
+      "sha256": "ee46d206c58ba48d7d7a3058400244ffac34af7a16a952d5faafac9323e7f3d9",
+      "size": 112274
+    },
+    {
+      "file": "notepad++/localization/english.xml",
+      "sha256": "974306e34f09913a34c855c9dcf53e617810e5f66ddc913e8effa57bd7e1e4bf",
+      "size": 105476
+    },
+    {
+      "file": "notepad++/localization/english_customizable.xml",
+      "sha256": "eee5fa3c77cca3efb97867532e87744883c0a71bb53d33110ddb67e3a9e2ef83",
+      "size": 105485
+    },
+    {
+      "file": "notepad++/localization/esperanto.xml",
+      "sha256": "34fefc8334b86d2540e68348538d84a3376acf843548139dbb40ee6869937a94",
+      "size": 47060
+    },
+    {
+      "file": "notepad++/localization/estonian.xml",
+      "sha256": "5b539a8e5a0ae26f75ba2357d3820bc759acba9aff37e1dbfe593fcee51967f1",
+      "size": 46855
+    },
+    {
+      "file": "notepad++/localization/extremaduran.xml",
+      "sha256": "a7b188362e4bf9d61095361b1ff381273c0ea982f4ca582e8205850c544ee98f",
+      "size": 20065
+    },
+    {
+      "file": "notepad++/localization/farsi.xml",
+      "sha256": "a8404a810e861924c8dd56b94534dc895f8c90dc621a328ba2c20d7e0e63d6b2",
+      "size": 52740
+    },
+    {
+      "file": "notepad++/localization/finnish.xml",
+      "sha256": "b8a817e80a9586b32e5e76f84636d3daff89b5430645e3ded89f155635f59ff8",
+      "size": 84805
+    },
+    {
+      "file": "notepad++/localization/french.xml",
+      "sha256": "1c41c85072295f2f6d2e0e58afe8ae560c811b975b635907f952638fe3a97d88",
+      "size": 116797
+    },
+    {
+      "file": "notepad++/localization/friulian.xml",
+      "sha256": "a48f66afad848e638f499910ad5f05323d4ca36b9d99d2dd6964db0e0b60a936",
+      "size": 27306
+    },
+    {
+      "file": "notepad++/localization/galician.xml",
+      "sha256": "a0686051421295a563bc64a2347711e918ac29fe804f40c03246d2e89146e43c",
+      "size": 113694
+    },
+    {
+      "file": "notepad++/localization/georgian.xml",
+      "sha256": "3edc83d45a610f37f89ab1242cf4e54fc074bd1b3d64543934dd02cb50ee4a58",
+      "size": 50148
+    },
+    {
+      "file": "notepad++/localization/german.xml",
+      "sha256": "be494fff2eb8c66b950f3dcf0541d9d2cb187c0e265447f098c92f433173a69d",
+      "size": 114820
+    },
+    {
+      "file": "notepad++/localization/greek.xml",
+      "sha256": "88e70c10d5062f39c9c6465b2003c600aba788f1d3d754016971ca3b2a36ba56",
+      "size": 99753
+    },
+    {
+      "file": "notepad++/localization/gujarati.xml",
+      "sha256": "e1aa874ead56e446a1e779c1ac1c19d6d17426db971c5c1afd2b8ff8cddda75a",
+      "size": 57624
+    },
+    {
+      "file": "notepad++/localization/hebrew.xml",
+      "sha256": "9ee5c2b3efc042952bf23b0bbd0544cb301a2940d62d414bc4a80ff3d73d1b18",
+      "size": 21073
+    },
+    {
+      "file": "notepad++/localization/hindi.xml",
+      "sha256": "e7eeb82d39741a32fa73ff0ec0f581e895a4a74b96ef3c0806749afdf3a70d57",
+      "size": 96526
+    },
+    {
+      "file": "notepad++/localization/hongKongCantonese.xml",
+      "sha256": "edacb2706479e7b5931d934bf9846e27bd5078f84247fbc3cebdfc9f45179a6d",
+      "size": 117525
+    },
+    {
+      "file": "notepad++/localization/hungarian.xml",
+      "sha256": "dd639c9656552d1aefeb73e3409b68b00f3d317a6e35878cd8f15ab63ed62628",
+      "size": 126583
+    },
+    {
+      "file": "notepad++/localization/indonesian.xml",
+      "sha256": "3b932623baaac8da0db530d6f2797760513e1c8581b5c164408de180c55f9d97",
+      "size": 90593
+    },
+    {
+      "file": "notepad++/localization/irish.xml",
+      "sha256": "f859d26325778b297d371c11adf16b699f3a3ce044e6769bfd53eab165a6eb94",
+      "size": 67552
+    },
+    {
+      "file": "notepad++/localization/italian.xml",
+      "sha256": "77d27d3e90fbce49e4ae97d712479e6e7572aeb9ed8f5c5c4f40e70e670f9c9f",
+      "size": 110197
+    },
+    {
+      "file": "notepad++/localization/japanese.xml",
+      "sha256": "f59484752e6972ffc78a8f06367a42e53788352422fd0b13977f7bac6c7d22e9",
+      "size": 119856
+    },
+    {
+      "file": "notepad++/localization/kabyle.xml",
+      "sha256": "a5cf5006d1f0487819e418eedb2840208e0ddd28069a46866bde23348ecb59c0",
+      "size": 39531
+    },
+    {
+      "file": "notepad++/localization/kannada.xml",
+      "sha256": "cd1b07a0752b73204625b27553b6def246947d2832e323c7dea1a350129e9658",
+      "size": 62262
+    },
+    {
+      "file": "notepad++/localization/kazakh.xml",
+      "sha256": "c8129786f60b5d24f00e68c0cf78730e456982910a658a29621505216cfa82be",
+      "size": 30406
+    },
+    {
+      "file": "notepad++/localization/korean.xml",
+      "sha256": "72c94ec3224f9a9cb55394f7d84f703964fd5a5a19e090ded8758724ac05b63e",
+      "size": 106622
+    },
+    {
+      "file": "notepad++/localization/kurdish.xml",
+      "sha256": "cda6592b4ee3500e13b23f85c5be4fb33a7c6d1ec8acd4390b315ba9cb315585",
+      "size": 49616
+    },
+    {
+      "file": "notepad++/localization/kyrgyz.xml",
+      "sha256": "31c1faa64d7ec1d31cfb11a7a64d9e7ac5a00ddf31a3a11c630191c97a298213",
+      "size": 32226
+    },
+    {
+      "file": "notepad++/localization/latvian.xml",
+      "sha256": "bf58ff3bdf86e0a7347ef2e47cfc5e7226e920406254dbe11cefc9a3f1108aaf",
+      "size": 44380
+    },
+    {
+      "file": "notepad++/localization/ligurian.xml",
+      "sha256": "8b84b353a2561c8c30a196519618252c90d39a38fb732f2f829b70faabf1158d",
+      "size": 28094
+    },
+    {
+      "file": "notepad++/localization/lithuanian.xml",
+      "sha256": "ad2f39ce458cefbf5ce61c640d47d7cbec1b60905c4541b3ba54d58d0802934e",
+      "size": 61412
+    },
+    {
+      "file": "notepad++/localization/luxembourgish.xml",
+      "sha256": "3814c3e7dac3183f7f5bb26b3ca08d06384b033888ddb06bfcf232a561f7ff70",
+      "size": 22918
+    },
+    {
+      "file": "notepad++/localization/macedonian.xml",
+      "sha256": "d381ffd822eab74b2f9567599622f43f9c93f0ef92bd62082fed32870fab1e0d",
+      "size": 30639
+    },
+    {
+      "file": "notepad++/localization/malay.xml",
+      "sha256": "02e73d7ebf2c41f24f161c88fe4332d3504cce54a13bacc9e76683189595fd44",
+      "size": 20553
+    },
+    {
+      "file": "notepad++/localization/marathi.xml",
+      "sha256": "800b9c524cbfbbb065ac6e1b5c86afca8b5d9d094d802c0d21263254544d841b",
+      "size": 39623
+    },
+    {
+      "file": "notepad++/localization/mongolian.xml",
+      "sha256": "483a15b1ac1521435773c8eca518e50c33fffeece60ff6f2148e84858adf6bbd",
+      "size": 52308
+    },
+    {
+      "file": "notepad++/localization/nepali.xml",
+      "sha256": "4bd94c75ec83879659b4a4eb2e616cde4ed6c6152f013bb450f5770348bd9206",
+      "size": 106973
+    },
+    {
+      "file": "notepad++/localization/norwegian.xml",
+      "sha256": "cda5c04808cf69d90f9a32c0cb161bdc599839b1f039a5b8fbb5126c9e3d8cd5",
+      "size": 99837
+    },
+    {
+      "file": "notepad++/localization/nynorsk.xml",
+      "sha256": "65ba5752f45f048b22541ae92ef4c9123c4359fdc576d7b0e86166a0c9e840a9",
+      "size": 31480
+    },
+    {
+      "file": "notepad++/localization/occitan.xml",
+      "sha256": "2398f33f0c7d9dd69ee213363c3c924593ae92a4a729c60cb67b7eb53cdd1daf",
+      "size": 60292
+    },
+    {
+      "file": "notepad++/localization/piglatin.xml",
+      "sha256": "f9cb493c6b271ec00236037ccfc25dabe12629055fbfdbe56c56eb25132631e9",
+      "size": 63897
+    },
+    {
+      "file": "notepad++/localization/polish.xml",
+      "sha256": "28b7a1fd23035dc85e78fc48f7bda26389eeccb64c110266d88e93e853f94363",
+      "size": 113975
+    },
+    {
+      "file": "notepad++/localization/portuguese.xml",
+      "sha256": "373b19cd39d68034d064e76d6c2d25c3995d31580d94462b1781d4fac08cd8a3",
+      "size": 115420
+    },
+    {
+      "file": "notepad++/localization/punjabi.xml",
+      "sha256": "bff0d8730a17f185abfc028b3813e930d842a2eec7baf30539fdd74ca0504f47",
+      "size": 58441
+    },
+    {
+      "file": "notepad++/localization/romanian.xml",
+      "sha256": "51426ac65fb4313efbcda0fd0e7cee71d2bc40d18c1648ebe825b47d5890527f",
+      "size": 135976
+    },
+    {
+      "file": "notepad++/localization/russian.xml",
+      "sha256": "a3541fddb243662f12146d33a80517c6e30eb764fb8db370fe654e1362836673",
+      "size": 141788
+    },
+    {
+      "file": "notepad++/localization/samogitian.xml",
+      "sha256": "ad7850e4f4b98aff535efe8b24e540ac7bb1d39c3dbb8bc649aa7126ab311c6c",
+      "size": 7832
+    },
+    {
+      "file": "notepad++/localization/sardinian.xml",
+      "sha256": "58250b36770336202242ec38ee7a7b94ec726769829f8f783b3591d1717c4138",
+      "size": 34214
+    },
+    {
+      "file": "notepad++/localization/serbian.xml",
+      "sha256": "4537f4062f52f20236443d23d9634a2b8110daa3b250362df79222c48717e3f8",
+      "size": 109486
+    },
+    {
+      "file": "notepad++/localization/serbianCyrillic.xml",
+      "sha256": "193f58ef91dd555d6b3daf4f83791c4b8526dbb62b5589c9cccd4148c8865b85",
+      "size": 140487
+    },
+    {
+      "file": "notepad++/localization/sinhala.xml",
+      "sha256": "fed7209131b5270b6438f4ff375bb1d0f8cd877dc622607b50954c2971ae525d",
+      "size": 47295
+    },
+    {
+      "file": "notepad++/localization/slovak.xml",
+      "sha256": "a4aa52d1ca835ace249f7094b17cb4990d0fff2ad4d661d7a980d83123fd016c",
+      "size": 111957
+    },
+    {
+      "file": "notepad++/localization/slovenian.xml",
+      "sha256": "8e7fe616107203487b475d7f18d602286769bb7461718ea0fc8aac5da68ea165",
+      "size": 100914
+    },
+    {
+      "file": "notepad++/localization/spanish.xml",
+      "sha256": "993ff4e4efb4052c0106d9bac179326525c91463c72094c9261a6e64c88974b4",
+      "size": 115427
+    },
+    {
+      "file": "notepad++/localization/spanish_ar.xml",
+      "sha256": "28a59d5b4bb2b749f0eb462616e1cad266b1dd01316ba09d2416f097d82dfc43",
+      "size": 41110
+    },
+    {
+      "file": "notepad++/localization/swedish.xml",
+      "sha256": "7c95facdef4646f58b36b675a08848f95ca327e93010004e40f4fd04d84e58f4",
+      "size": 110991
+    },
+    {
+      "file": "notepad++/localization/tagalog.xml",
+      "sha256": "29effc91b733691a43964aa8dca610f7d653797147283f03ea0853ce4b9f215f",
+      "size": 24296
+    },
+    {
+      "file": "notepad++/localization/taiwaneseMandarin.xml",
+      "sha256": "6f53cb91c3074515a020d10268ea08802875266653d2138de46dce23bf8b6321",
+      "size": 90962
+    },
+    {
+      "file": "notepad++/localization/tajikCyrillic.xml",
+      "sha256": "2738b1fc16b2cdb007ac46d6591f5a04c357ce6ca13ce6741025fca2a47c9f50",
+      "size": 54653
+    },
+    {
+      "file": "notepad++/localization/tamil.xml",
+      "sha256": "b59a85102f85cf846ef4193a67a52fe458a5228e75d1aa6351047a008beb4ce0",
+      "size": 101809
+    },
+    {
+      "file": "notepad++/localization/tatar.xml",
+      "sha256": "0e7e0115265e97e5d03ea49c5a13f57f5ef567017dda4d71715825a939974008",
+      "size": 58729
+    },
+    {
+      "file": "notepad++/localization/telugu.xml",
+      "sha256": "50e4d44e3ba97715d50b932f0e0fbbe45638ea4d2f3ba17f1b8b4a3a9d4542ed",
+      "size": 42445
+    },
+    {
+      "file": "notepad++/localization/thai.xml",
+      "sha256": "96033095531569b47c1a17f743c86195337ae63cb451180cdaaf4447c19a6978",
+      "size": 40329
+    },
+    {
+      "file": "notepad++/localization/turkish.xml",
+      "sha256": "354694bbb682be0baf4bf730670dd372146ae9e826d1e8638f77abf5892bdb87",
+      "size": 109366
+    },
+    {
+      "file": "notepad++/localization/ukrainian.xml",
+      "sha256": "26223924b7bf51df99dfa2f6ef8d8358ff66c7b8877365042b708136cb69a623",
+      "size": 143288
+    },
+    {
+      "file": "notepad++/localization/urdu.xml",
+      "sha256": "35f660eff9025e096ac18860ff81b085f28f652578ff5948d7215ea24c4f554b",
+      "size": 12846
+    },
+    {
+      "file": "notepad++/localization/uyghur.xml",
+      "sha256": "fdf858d73828e4db1e0cbce9276c0e7e2827dfe9b9f647f7db629e416dd9405c",
+      "size": 39815
+    },
+    {
+      "file": "notepad++/localization/uzbek.xml",
+      "sha256": "ce19b2f3c1c38225417448da75d04bac174f7224609abda85f1ee3d932843cef",
+      "size": 68981
+    },
+    {
+      "file": "notepad++/localization/uzbekCyrillic.xml",
+      "sha256": "ed48a84aafcc1b943f8693e9e5aeb9ea157d052aa49ac8b4ec256ce4a96ce75b",
+      "size": 29572
+    },
+    {
+      "file": "notepad++/localization/venetian.xml",
+      "sha256": "824798cf2edfb343abc8ba72ef9e93c8559b41a5684f561d14a39721607b128b",
+      "size": 105229
+    },
+    {
+      "file": "notepad++/localization/vietnamese.xml",
+      "sha256": "cda9d0c59bc03fb7ad723702bf8820bf645fdc6a6a13374432fac10000837ba4",
+      "size": 121806
+    },
+    {
+      "file": "notepad++/localization/welsh.xml",
+      "sha256": "0db35a27e8a5c3253dfbf143f0830cfdcc22518ecdd395eb02e3facea9b526e3",
+      "size": 41443
+    },
+    {
+      "file": "notepad++/localization/zulu.xml",
+      "sha256": "3e1d894ff671bf5bf6582b877c21e18c2a397949b95e717b98c46d30382a1012",
+      "size": 62517
+    },
+    {
+      "file": "notepad++/themes/Bespin.xml",
+      "sha256": "c0a0c8f449a8b41b1f33d4bbea6c23de3cc644c7f59ee7eddffe91e7fb40dc27",
+      "size": 135432
+    },
+    {
+      "file": "notepad++/themes/Black board.xml",
+      "sha256": "30edfeb49dd7518af6e15606c7a002f6b0599b3a9dbe7206cca21c112c8ad44e",
+      "size": 132706
+    },
+    {
+      "file": "notepad++/themes/Choco.xml",
+      "sha256": "ef8502cc25b830412b52ea0c11fd53e82ba0576b56e2b35835a64bcf34b2a6e5",
+      "size": 132788
+    },
+    {
+      "file": "notepad++/themes/DansLeRuSH-Dark.xml",
+      "sha256": "08da3182e40c56e25b9e7956410906a1eb3c3300961dbd68542623ba084139f9",
+      "size": 152252
+    },
+    {
+      "file": "notepad++/themes/DarkModeDefault.xml",
+      "sha256": "f4af19742364988d984c90c6008606dd8b5ecce930f183107799693d33de5d14",
+      "size": 229964
+    },
+    {
+      "file": "notepad++/themes/Deep Black.xml",
+      "sha256": "f919e6b3123ce8ac1a25ee0a4e5adc288638a85b3f8e9c67c2cfdab2e6d85470",
+      "size": 136006
+    },
+    {
+      "file": "notepad++/themes/Hello Kitty.xml",
+      "sha256": "a67ef0e7ffe321d3536182d6a73f8683e6030b6d396749efe0af1210a130b51f",
+      "size": 133060
+    },
+    {
+      "file": "notepad++/themes/HotFudgeSundae.xml",
+      "sha256": "35369484ce1e0b55f6698304921ab4b6905036c9ff18f54a9bd8881022d96ea5",
+      "size": 152334
+    },
+    {
+      "file": "notepad++/themes/khaki.xml",
+      "sha256": "5114b7e995ae80dd9ade19dd3776e731bd8b53c1c6d749a7afcf36d6d46ead04",
+      "size": 150629
+    },
+    {
+      "file": "notepad++/themes/Mono Industrial.xml",
+      "sha256": "35dfc28dc96a9e6c42382fb507daa2895cd702bfa3a19399499a5ab76c1511d5",
+      "size": 133288
+    },
+    {
+      "file": "notepad++/themes/Monokai.xml",
+      "sha256": "9b3d8a7c3d2ff6b89d990faf6ffc52a5d5f029db604355fa023769874ae04edf",
+      "size": 134569
+    },
+    {
+      "file": "notepad++/themes/MossyLawn.xml",
+      "sha256": "fc46dc4e968152411f47c0d711c44e294bdac963abc2fb2d1a1c1bc0bfe96708",
+      "size": 150845
+    },
+    {
+      "file": "notepad++/themes/Navajo.xml",
+      "sha256": "7d3493e8268a16fbdf4c28196da318e3e871c678c263ef772e9bfc919b053e79",
+      "size": 150646
+    },
+    {
+      "file": "notepad++/themes/Obsidian.xml",
+      "sha256": "7b9a3db49d85802504bb19bdd167a44a877947de9b726eb64fc650a4213d8ec0",
+      "size": 140316
+    },
+    {
+      "file": "notepad++/themes/Plastic Code Wrap.xml",
+      "sha256": "71167d13f4c9e5e86165e067ee683e1c958e5ed006457768d391c9611b1019a6",
+      "size": 134782
+    },
+    {
+      "file": "notepad++/themes/Ruby Blue.xml",
+      "sha256": "c57897bb07f414587c4e32aa1689173b31807bee0945bb60ae6f8e1fa7148ab1",
+      "size": 115605
+    },
+    {
+      "file": "notepad++/themes/Solarized-light.xml",
+      "sha256": "1449c2527dad8248766edb58f17fb7bbba0675b1c3bf9bf2c20f61a2867697e4",
+      "size": 151297
+    },
+    {
+      "file": "notepad++/themes/Solarized.xml",
+      "sha256": "12ecf803bed03faf33fdcf428fe99477f03019c29c2e6a2e8b425290d3511acd",
+      "size": 201418
+    },
+    {
+      "file": "notepad++/themes/Twilight.xml",
+      "sha256": "2d31e4aabaf56ff41584145c92d566e7c27e277d350565a7d94d0c621295fa97",
+      "size": 133119
+    },
+    {
+      "file": "notepad++/themes/Vibrant Ink.xml",
+      "sha256": "4654066cef5e45b76199e12d1642c7864ef1cb2810f4dbcbec00bdcb27d2e980",
+      "size": 131800
+    },
+    {
+      "file": "notepad++/themes/vim Dark Blue.xml",
+      "sha256": "a7d5326dd26f9d3e0faa0dc65f02f3b3f00358bb74b91f524b208938418e886a",
+      "size": 132135
+    },
+    {
+      "file": "notepad++/themes/Zenburn.xml",
+      "sha256": "cf79258569a8efdeb7f576f916890ddbaacadadde05fbffab931a7f466a64d2d",
+      "size": 225296
+    },
+    {
+      "file": "notepad++/updater/GUP.exe",
+      "sha256": "b5ec4847961042b16aec48bbc1626f298013967c1c9c9647d7e344292655f175",
+      "size": 820384
+    },
+    {
+      "file": "notepad++/updater/gup.xml",
+      "sha256": "92717951aae89e960b142cef3d273f104051896a3d527a78ca4a88c22b5216a5",
+      "size": 4608
+    },
+    {
+      "file": "notepad++/updater/libcurl.dll",
+      "sha256": "e7d17bc98e98a9e5d8b5a4492404c1e387fc75d9592f902822849352d438f6ee",
+      "size": 854176
+    },
+    {
+      "file": "notepad++/updater/LICENSE",
+      "sha256": "319917f5ccd09878db6f67c9a77dee846055644ca49eb535628b9e020a87261e",
+      "size": 7804
+    },
+    {
+      "file": "notepad++/updater/README.md",
+      "sha256": "f808649cfaedd59d8865bae30c1e8a9ebd3ea0ed9ce84cf3db5ed6f31e0d26a7",
+      "size": 3843
+    },
+    {
+      "file": "notepad++/updater/updater.ico",
+      "sha256": "fb40c912b218a71bd7bc1aeef5530165df60d0b4f896929f989b8ff37a98d459",
+      "size": 133872
+    },
+    {
+      "file": "notepad++/userDefineLangs/markdown._preinstalled.udl.xml",
+      "sha256": "b34fe6811dacfe49d77d434123867e866daf6e0e27387a0446887dabe8943f04",
+      "size": 6406
+    },
+    {
+      "file": "notepad++/userDefineLangs/markdown._preinstalled_DM.udl.xml",
+      "sha256": "e45e49f0895249d951df2c07e0f06ca1242e05c961dd921e5aa2781ae2e7ff25",
+      "size": 6439
+    },
+    {
+      "file": "notepad++/plugins/Config/nppPluginList.dll",
+      "sha256": "c05d4fd9814cbae60d73696fc1d179dc0f129db5c763d6a3b4e83ddf4946d9dc",
+      "size": 229024
+    },
+    {
+      "file": "notepad++/plugins/mimeTools/mimeTools.dll",
+      "sha256": "816cb5fb1a823c7ddcbd282933fa67a6c5b490bfeb67669c860006aeaa9e8f2b",
+      "size": 160920
+    },
+    {
+      "file": "notepad++/plugins/NppConverter/NppConverter.dll",
+      "sha256": "4ab25242922839b8548644298cf6183bb710eeeed39a991c6280c90f1195171d",
+      "size": 219288
+    },
+    {
+      "file": "notepad++/plugins/NppExport/NppExport.dll",
+      "sha256": "f69e2772226f829f0c235904157015f1e09142e5f8d8bd4bbb0bdbef9de091da",
+      "size": 170144
+    }
+  ]
+}

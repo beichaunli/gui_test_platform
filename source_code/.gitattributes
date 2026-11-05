@@ -1,0 +1,7 @@
+*.py text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.bat text eol=crlf
+# Preserve upstream bytes so SHA256 checks remain valid after clone on Windows.
+tested_software/** -text
