@@ -27,7 +27,7 @@ gui_test_platform/
 └─ README.md                     本说明
 ```
 
-老师只需下载或解压整个 `gui_test_platform` 文件夹。不要仅复制 EXE 或单个 Python 文件。交付包不包含老师原示例、旧版模糊测试平台和开发者历史任务数据库。
+只需下载或解压整个 `gui_test_platform` 文件夹。不要仅复制 EXE 或单个 Python 文件。交付包不包含老师原示例、旧版模糊测试平台和开发者历史任务数据库。
 
 ## 二、环境配置
 
