@@ -163,8 +163,4 @@ python source_code/verify_api.py --actions 35
 
 来源：[官方版本及哈希](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.7)。版本固定不代表推荐作为日常更新版本。文件完整性由 `source_code/check_project.py` 核验。
 
-## 十一、交付验证
 
-本次已将交付 ZIP 解压到另一目录并改名，再从项目目录之外启动并验证相对路径。新增后台模式及启动器后，29 项 Python 测试、前端逻辑测试、随附文件哈希检查通过；后台真实 GUI 遍历执行 25 次测试动作、观察 24 个状态，15 类功能检查通过。它证明该交付在本次验证环境下可运行，不代表任意 Windows 软件都无需适配。
-
-压缩包显式包含空 `video/`，排除本机任务数据库、日志和 Python 缓存。需要重新打包时可执行 `python source_code/package_project.py`，新 ZIP 生成在项目文件夹旁边。
